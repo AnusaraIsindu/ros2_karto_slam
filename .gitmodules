@@ -1,0 +1,3 @@
+[submodule "karto_ws/src/sparse_bundle_adjustment_ros2"]
+	path = karto_ws/src/sparse_bundle_adjustment_ros2
+	url = https://github.com/Adlink-ROS/sparse_bundle_adjustment_ros2.git
